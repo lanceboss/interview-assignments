@@ -1,0 +1,9 @@
+您好，作业回复
+
+LINUX下命令行
+curl -H "Content-Type: application/json" -d '{  "deviceName" : "MACBOOKAIR",  "processId" : "none" ,  "processName" : "com.apple.mdworker.bundles",  "description" : "Could not find uid associated with service",  "timeWindow" : "0001-2358",  "numberOfOccurrence" : "12"  }' https://foo.com/bar
+
+WINDOWS下POWERSHELL
+curl.exe -H "Content-Type: application/json" -d '{  "deviceName" : "MACBOOKAIR",  "processId" : "none" ,  "processName" : "com.apple.mdworker.bundles",  "description" : "Could not find uid associated with service",  "timeWindow" : "0001-2358",  "numberOfOccurrence" : "12"}' https://foo.com/bar
+
+联系方式是 Alexander Lan.Tel +86 13720877984 
